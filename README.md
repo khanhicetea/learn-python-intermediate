@@ -2,6 +2,6 @@
 
 - [x] Jupyter notebook
 - [x] [Meta Programming](./books/meta-programming.ipynb)
-- [ ] Lamda function
+- [x] [Lamda function](./books/lambda-functions.ipynb)
 - [ ] OOP
 - [ ] Helper functions

@@ -1,7 +1,7 @@
 ## Learn Python Intermediate
 
-- [ ] Jupyter notebook
-- [ ] Meta Programming
+- [x] Jupyter notebook
+- [x] Meta Programming
 - [ ] Lamda function
 - [ ] OOP
 - [ ] Helper functions

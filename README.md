@@ -6,4 +6,4 @@
 - [ ] OOP
 - [ ] Helper functions
     - [x] [Part 1](./books/builtin-functions-1.ipynb)
-    - [ ] [Part 2](./books/builtin-functions-2.ipynb)
+    - [x] [Part 2](./books/builtin-functions-2.ipynb)

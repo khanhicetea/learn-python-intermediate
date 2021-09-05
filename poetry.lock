@@ -70,6 +70,18 @@ python-versions = "*"
 pycparser = "*"
 
 [[package]]
+name = "codetiming"
+version = "1.3.0"
+description = "A flexible, customizable timer for your Python code"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.extras]
+dev = ["black", "bump2version", "flake8", "flit", "interrogate", "isort", "mypy"]
+test = ["black", "interrogate", "pytest", "pytest-cov", "tox"]
+
+[[package]]
 name = "colorama"
 version = "0.4.4"
 description = "Cross-platform colored terminal text."
@@ -740,7 +752,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "2ab35092bf85f59d9d94d494fc25b3c86e99601a53e3f86e0836f5d429ec8f7c"
+content-hash = "4482fe2fc42d64d339dd5628ec80967b19f89079f08569edd76bf714957571f9"
 
 [metadata.files]
 appnope = [
@@ -829,6 +841,10 @@ cffi = [
     {file = "cffi-1.14.6-cp39-cp39-win32.whl", hash = "sha256:eb9e2a346c5238a30a746893f23a9535e700f8192a68c07c0258e7ece6ff3728"},
     {file = "cffi-1.14.6-cp39-cp39-win_amd64.whl", hash = "sha256:818014c754cd3dba7229c0f5884396264d51ffb87ec86e927ef0be140bfdb0d2"},
     {file = "cffi-1.14.6.tar.gz", hash = "sha256:c9a875ce9d7fe32887784274dd533c57909b7b1dcadcc128a2ac21331a9765dd"},
+]
+codetiming = [
+    {file = "codetiming-1.3.0-py3-none-any.whl", hash = "sha256:1d7daa7f13354371cdd54999a5064350f7c551fe1a6b7e870eea9fce3abb2c09"},
+    {file = "codetiming-1.3.0.tar.gz", hash = "sha256:7f9949dad6438f458a22b811b0738c55e45f685d27551352871e15811f3a5e89"},
 ]
 colorama = [
     {file = "colorama-0.4.4-py2.py3-none-any.whl", hash = "sha256:9f47eda37229f68eee03b24b9748937c7dc3868f906e8ba69fbcbdd3bc5dc3e2"},

@@ -9,7 +9,7 @@
     - [x] [Part 2](./books/builtin-functions-2.ipynb)
     - [x] [Part 3](./books/builtin-functions-3.ipynb)
 - [x] [Comprehensions](./books/comprehensions.ipynb)
-- [ ] Context Manager
+- [x] [Context Manager](./books/context-manager.ipynb)
 - [ ] I/O
 
 ## Usage

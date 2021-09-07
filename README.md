@@ -1,15 +1,15 @@
 ## Learn Python Intermediate
 
 - [x] Jupyter notebook
-- [x] [Meta Programming](./books/meta-programming.ipynb)
+- [x] [Comprehensions](./books/comprehensions.ipynb)
 - [x] [Lamda function](./books/lambda-functions.ipynb)
 - [x] [Object Oriented Programming](./books/oop.ipynb)
+- [x] [Context Manager](./books/context-manager.ipynb)
 - [x] Built-in functions
     - [x] [Part 1](./books/builtin-functions-1.ipynb)
     - [x] [Part 2](./books/builtin-functions-2.ipynb)
     - [x] [Part 3](./books/builtin-functions-3.ipynb)
-- [x] [Comprehensions](./books/comprehensions.ipynb)
-- [x] [Context Manager](./books/context-manager.ipynb)
+- [x] [Meta Programming](./books/meta-programming.ipynb)
 - [ ] I/O
 
 ## Usage
